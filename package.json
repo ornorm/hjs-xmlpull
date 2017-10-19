@@ -14,7 +14,10 @@
     "url": "git+https://github.com/ornorm/hjs-xmlpull.git"
   },
   "keywords": [
-    "XML"
+    "XmlPullParserPool",
+    "XmlPullParser",
+    "XmlSerializer",
+    "XmlPullParserFactory"
   ],
   "author": "Aime Biendo <abiendo@gmail.com>",
   "license": "MIT",
