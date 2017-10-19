@@ -1,5 +1,5 @@
 # HJS-XMLPULL
-> IO classes for the Hubrisjs javascript framework.
+> XML pull parser classes for the Hubrisjs javascript framework.
 
 XMLPULL abstract classes: XmlPullParserPool, XmlPullParser, XmlSerializer etc...
 
